@@ -1,6 +1,8 @@
-This program will convert 360 panorama into unity 6 side skybox
+This program will convert 360 panorama into unity 6 side skybox, 
+You can put several images inside a folder named Input 
+And it will covert all images and return result into Result folder
 
 How to run
     - put everthing into folder name Input
     - Run renamer first if they are not renamed
-    - run main.py 
+    - run main.py
